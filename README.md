@@ -4,7 +4,7 @@ A CLI tool that fetches SSL Certificates of a given URL.
 
 ## Usage
 
-`npx get-ssl-certs duckduckgo.com`
+`npx getsslcerts duckduckgo.com`
 
 Example Output:
 
